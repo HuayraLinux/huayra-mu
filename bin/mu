@@ -1,65 +1,6 @@
 #!/usr/local/bin/node
 "use strict";
-var inquirer = require("inquirer");
-var chalk = require('chalk');
-var textos = require('../lib/textos');
-
-var nombre;
-
-var preguntas = [
-  {
-    type: "input",
-    name: "nombre",
-    message: "¿Como se llamará tu aplicación?",
-    //default: function () { return "inicia l";},
-    validate: function(value) {
-      var pass = value.match(/^[a-z]+$/i);
-
-      if (pass) {
-        return true;
-      } else {
-        return "Por favor elegí un nombre que solo contenta letras";
-      }
-    }
-  },
-  {
-    type: "list",
-    name: "stack",
-    message: "¿Que tecnología te gustaría usar aquí?",
-    choices: [
-    "html5",
-    "ember",
-    "pilas-engine",
-    new inquirer.Separator(),
-    //"Ingresar al tutorial para tener una guia sobre estas tecnologías",
-    "¿ayuda?",
-    "prefiero salir",
-    ]
-  },
-];
+var main = require('../lib/main');
 
 
-textos.imprimirIntro();
-console.log(chalk.gray(" (consejo: pulsá las teclas 'CTRL C' si las cosas se ponen feas...)"));
-console.log("");
-
-function primer_paso() {
-  inquirer.prompt(preguntas, function(respuestas) {
-    //console.log(respuestas);
-    //console.log(JSON.stringify(respuestas, null, " "));
-
-    if (respuestas.stack === "¿ayuda?") {
-      textos.imprimirAyuda();
-      primer_paso();
-    }
-
-
-    if (respuestas.stack === "prefiero salir") {
-      console.log(chalk.gray("ohh... ¡chau!"));
-      process.exit(0);
-    }
-
-  });
-}
-
-primer_paso();
+main.iniciar();
