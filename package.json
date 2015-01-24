@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine-node specs/*spec.js"
+    "test": "jasmine-node spec/*spec.js"
   },
   "author": "Un asistente para crear proyectos de software.",
   "license": "ISC",
