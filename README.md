@@ -15,8 +15,14 @@ de proyectos, inspirado en yeoman y ember-cli.
 
 ## Instalación
 
-Luego, necesitas algunas dependencias para que la aplicación
-funcione correctamente. Ejecutá lo siguiente:
+Lo primero que tenes que hacer es clonar el repositorio con este
+comando:
+
+	git clone https://github.com/hugoruscitti/huayra-mu
+
+Después, hay que ingresar en el directorio de la aplicación e instalar
+las dependencias para que todo funcione correctamente. Ejecutá lo
+siguiente:
 
 	npm install
 
