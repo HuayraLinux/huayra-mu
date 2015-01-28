@@ -2,7 +2,7 @@
 C       /)   (\       R    
 C  .-._((,~"~.))_.-,  R  
 C   `-.   e e   ,-'   R ¡Hola!, estás usando SmuR, el asistente
-C     / ,o---o. \     R para crear y distribuir aplicaciones para huayra
+C     / ,o---o. \     R para crear y distribuir aplicaciones
 C    ( ( .___. ) )    R usando las mejores tecnologías.
 C     ) `-----' (     R  
 C    /`-.__ __.-'\    R ¡muuuu!
