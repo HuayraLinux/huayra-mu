@@ -1,11 +1,11 @@
 
-       /)   (\
-  .-._((,~"~.))_.-,
-   `-.   e e   ,-'     ¡Hola!, estás usando mu, el asistente
-     / ,o---o. \       para crear y distribuir aplicaciones para huayra
-    ( ( .___. ) )      usando las mejores tecnologías.
-     ) `-----' (
-    /`-.__ __.-'\      ¡muuuu!
-         ,8.
-        /___\
-        `-&-'
+C       /)   (\       R    
+C  .-._((,~"~.))_.-,  R  
+C   `-.   e e   ,-'   R ¡Hola!, estás usando SmuR, el asistente
+C     / ,o---o. \     R para crear y distribuir aplicaciones para huayra
+C    ( ( .___. ) )    R usando las mejores tecnologías.
+C     ) `-----' (     R  
+C    /`-.__ __.-'\    R ¡muuuu!
+C         ,8.         R  
+C        /___\        R  
+C        `-&-'        R  

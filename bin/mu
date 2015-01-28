@@ -2,5 +2,4 @@
 "use strict";
 var main = require('../lib/main');
 
-
 main.iniciar();
