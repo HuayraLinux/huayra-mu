@@ -3,7 +3,7 @@
 Un asistente para crear la estructura inicial
 de proyectos, inspirado en yeoman y ember-cli.
 
-![](preview/preview.png)
+![](https://github.com/hugoruscitti/huayra-mu/raw/master/preview/preview.png)
 
 ## Características
 
