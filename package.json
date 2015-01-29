@@ -1,13 +1,13 @@
 {
   "name": "huayra-mu",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Un asistente para crear proyectos de software",
   "main": "index.js",
   "scripts": {
     "test": "jasmine-node spec/*spec.js"
   },
-  "author": "Un asistente para crear proyectos de software.",
-  "license": "ISC",
+  "author": "Hugo Ruscitti",
+  "license": "GPLv3",
   "dependencies": {
     "chalk": "^0.5.1",
     "handlebars": "^2.0.0",
