@@ -1,6 +1,6 @@
 {
   "name": "huayra-mu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Un asistente para crear proyectos de software",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
     "marked-terminal": "^1.1.2"
   },
   "devDependencies": {
-    "jasmine-node" : "latest"
+    "jasmine-node": "latest"
   }
 }
