@@ -17,6 +17,13 @@ de proyectos, inspirado en yeoman y ember-cli.
 
 ## Instalación
 
+Simplemente escribí este comando:
+
+    npm install huayra-mu
+
+
+## Instalación desde el repositorio
+
 Lo primero que tenes que hacer es clonar el repositorio con este
 comando:
 
@@ -31,3 +38,9 @@ siguiente:
 Por último, la aplicación se ejecuta así:
 
 	./bin/mu
+
+
+## Links
+
+- [Página de huayra-mu en npm](https://www.npmjs.com/package/huayra-mu)
+- [Los tests del proyecto](https://travis-ci.org/hugoruscitti/huayra-mu/builds)
