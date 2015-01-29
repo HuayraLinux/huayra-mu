@@ -1,5 +1,7 @@
 # huayra-app
 
+[![Build Status](https://travis-ci.org/hugoruscitti/huayra-mu.svg?branch=master)](https://travis-ci.org/hugoruscitti/huayra-mu)
+
 Un asistente para crear la estructura inicial
 de proyectos, inspirado en yeoman y ember-cli.
 

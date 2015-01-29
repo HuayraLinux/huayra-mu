@@ -1,5 +1,11 @@
+actualizar:
+	npm install
+
+release:
+	./node_modules/.bin/release-it
+
 test:
-	jasmine-node spec
+	./node_modules/.bin/jasmine-node spec
 
 test_mac:
 	bin/mu

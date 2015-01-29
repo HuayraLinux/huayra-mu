@@ -16,6 +16,7 @@
     "marked-terminal": "^1.1.2"
   },
   "devDependencies": {
-    "jasmine-node": "latest"
+    "jasmine-node": "latest",
+    "release-it": "0.0.15"
   }
 }
