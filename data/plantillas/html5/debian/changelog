@@ -1,0 +1,142 @@
+caripela (0.21) unstable; urgency=low
+
+  * Deshabilitando arrastrar y soltar sobre las imágenes.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 23 Jan 2015 17:09:18 +0100
+
+caripela (0.20) unstable; urgency=medium
+
+  * Fix en des/rehacer
+  * Fix en estado_inicial que impedia poder guardar correctamente
+  * Fix para guardar el fondo cuando solo esto cambiaba.
+
+ -- Mauro <mauro@krutt.org>  Tue, 20 Jan 2015 15:04:42 -0300
+
+caripela (0.19) unstable; urgency=low
+
+  * Reparando el botón de guardar.
+  * Actualizando fabric.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 07 Jan 2015 18:59:19 +0100
+
+caripela (0.18) unstable; urgency=medium
+
+  * Limpieza de codigo
+  * Bump dependencia en node-webkit para jessie.
+  * Quitamos paquete `caripela`, ya solo crea `huayra-caripela`.
+
+ -- Mauro <mauro@sdf.org>  Tue, 16 Dec 2014 14:22:32 -0300
+
+caripela (0.17) unstable; urgency=medium
+
+  * Acerca de...
+
+ -- Mauro <mauro@sdf.org>  Fri, 12 Dec 2014 15:49:54 -0300
+
+caripela (0.16) unstable; urgency=medium
+
+  * Deshacer y Rehacer se corrigio (por el momento)
+  * Los botones de deshacer y rehacer se activan o desactivan
+    segun el estado de la pila.
+  * Agrego Menu nativo a la aplicacion, falta completar.
+
+ -- Mauro <mauro@sdf.org>  Tue, 09 Dec 2014 16:02:35 -0300
+
+caripela (0.15) unstable; urgency=low
+
+  * El boton de agregar en las solapas-partes, te permite agregar
+    un nuevo item para utilizar.
+  * Definir como avatar ahora guarda la imagen como .face y como un
+    symlink para huayra-compartir
+  * node-webkit debe ser menor o igual a la version 0.7.5.2 de
+    Pampero, de lo contrario no funciona correctamente.
+  * Agrego comentario de version maxima en debian/README.Debian
+  * Realice varios cambios esteticos al paquete que ademas 
+    corregian warnings de Lintian.
+
+ -- Mauro <mauro@sdf.org>  Thu, 20 Nov 2014 16:21:24 -0300
+
+caripela (0.14) pampero-proposed; urgency=low
+
+  * Actualizando paquete para incluir en la proxima release de huayra.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 12 Nov 2014 16:13:19 +0100
+
+caripela (0.13) unstable; urgency=low
+
+  * deshacer y rehacer + base64 al exportar como svg (aquellas caripelas con pngs incrustados) 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 15 Oct 2014 20:23:41 +0200
+
+caripela (0.12) unstable; urgency=low
+
+  * Arreglo menor. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 02 Oct 2014 16:10:14 +0200
+
+caripela (0.11) unstable; urgency=low
+
+  * Agregando botones para bajar y subir objetos.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 24 Sep 2014 17:52:40 +0200
+
+caripela (0.10) unstable; urgency=low
+
+  * Cambiando el nombre del paquete a huayra-caripela. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 06 Aug 2014 16:16:36 +0200
+
+caripela (0.9) unstable; urgency=low
+
+  * arreglando el bug de expotación cuando hay objetos seleccionados. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 19 Jun 2014 17:45:55 +0200
+
+caripela (0.8) unstable; urgency=low
+
+  * Haciendo que la aplicación permita definir el avatar del usuario. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 19 Jun 2014 17:24:51 +0200
+
+caripela (0.7) unstable; urgency=low
+
+  * Cambiando el nombre de la aplicación a huayra-caripela. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 11 Jun 2014 17:18:37 +0200
+
+caripela (0.6) unstable; urgency=low
+
+  * Agregando un header a la pantalla principal. 
+  * Agregando muchos objetos de interfaz nuevos.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 11 Jun 2014 17:15:52 +0200
+
+caripela (0.5) unstable; urgency=low
+
+  * Agregando mas figuras de peinados. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 05 Jun 2014 15:54:06 +0200
+
+caripela (0.4) unstable; urgency=low
+
+  * Agregando posibilidad de invertir objetos.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 02 Jun 2014 21:50:31 +0200
+
+caripela (0.3) unstable; urgency=low
+
+  * Implementando la pantalla de seleccion y varias mejoras.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 02 Jun 2014 16:19:06 +0200
+
+caripela (0.2) unstable; urgency=low
+
+  * Cambiando el icono principal. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 28 May 2014 19:20:41 +0200
+
+caripela (0.1) unstable; urgency=low
+
+  * Creando una versión de prueba inicial.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 28 May 2014 17:52:37 +0200

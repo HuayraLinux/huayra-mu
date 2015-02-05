@@ -1,0 +1,4 @@
+src/* usr/share/caripela/src
+bin/huayra-caripela usr/bin/
+debian/caripela.desktop /usr/share/applications
+debian/caripela.svg /usr/share/icons/hicolor/scalable/apps
