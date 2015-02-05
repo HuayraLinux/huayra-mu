@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Huayra Caripela
-Comment=Permite crear personajes sencillos
-Exec=/usr/bin/huayra-caripela
-Terminal=false
-Type=Application
-Icon=caripela
-Categories=GNOME;GTK;Huayra;Network;
