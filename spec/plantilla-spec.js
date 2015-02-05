@@ -26,3 +26,18 @@ describe("Tiene que poder instanciar una plantilla", function() {
   });
 
 });
+
+
+describe("Tiene que poder entender el tipo de archivo", function() {
+
+  it("Detecta archivos de texto.", function() {
+    expect(plantillas.es_archivo_de_texto('pepe.txt')).toBe(true);
+    expect(plantillas.es_archivo_de_texto('pepe.html')).toBe(true);
+    expect(plantillas.es_archivo_de_texto('algo/pepe.html')).toBe(true);
+
+    expect(plantillas.es_archivo_de_texto('pepe.png')).toBe(false);
+    expect(plantillas.es_archivo_de_texto('pepe.jpg')).toBe(false);
+    expect(plantillas.es_archivo_de_texto('pepe.zip')).toBe(false);
+  });
+
+});
