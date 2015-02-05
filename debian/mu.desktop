@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Huayra Mu
+Comment=Un generador de proyectos para huayra
+Exec=/usr/bin/huayra-mu
+Terminal=true
+Type=Application
+Icon=mu
+Categories=GNOME;GTK;Huayra;Network;
