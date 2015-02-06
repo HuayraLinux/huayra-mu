@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>TXT_NOMBRE</title>
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+			<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1>¡Hola!</h1>
+					<h3>Estás viendo TXT_NOMBRE</h3>
+					<p>
+						<small>Para esta plantilla utilizamos <a target="_black" href="http://lab.hakim.se/reveal-js/#/">revealjs</a>, una biblioteca para hacer presentaciones</small>
+					</p>
+				</section>
+
+				<section>
+					<h2>¿Cómo funciona?</h2>
+					<p>
+						reveal.js te permite
+						escribir tus presentaciones (o slides) usando HTML, como
+						si fueran páginas webs.
+					</p>
+				</section>
+
+				<!-- Example of nested vertical slides -->
+				<section>
+					<section>
+						<h2>Páginas verticales</h2>
+
+						<p>Las páginas de tu presentación pueden colocarse verticalmente.</p>
+
+						<p>Podés usar la tecla <em>Espacio</em> si lo que buscás es recorrer
+							todas las páginas sin perderte nada.</p>
+						<br>
+
+						<a href="#" class="navigate-down">
+							<img width="178" height="238" data-src="imagenes/arrow.png" alt="Down arrow">
+						</a>
+					</section>
+					<section>
+						<h2>Subsuelo nivel 1</h2>
+						<p>Las páginas hacia abajo son utiles para añadir mayor detalle
+							justo debajo de del nivel principal.</p>
+					</section>
+					<section>
+						<h2>Subsuelo nivel 2</h2>
+						<p>Eso, puede haber muchos niveles hacia abajo. ¡Ya es hora de subir!</p>
+						<br>
+						<a href="#/2">
+							<img width="178" height="238" data-src="imagenes/arrow.png" alt="Up arrow" style="-webkit-transform: rotate(180deg);">
+						</a>
+					</section>
+				</section>
+
+
+				<section>
+					<h2>Desglose</h2>
+					<p>
+						Pulsando la tecla <strong>ESC</strong> se muestra una vista
+						"aérea" de todas las páginas.
+					</p>
+				</section>
+
+				<section>
+					<h2>Efectos de cámara</h2>
+
+					<p>
+						Incluso, hay algo útil a veces... podés mantener pulsada la tecla
+						<strong>ALT</strong> y hacer click sobre casi cualquier elemento, como estas
+						imágenes. Fijate lo que sucede:
+					</p>
+
+					<p>
+						<img src="imagenes/antiparra.png">
+						<img src="imagenes/vaca.png">
+					</p>
+
+				</section>
+
+				<section id="transitions">
+					<h2>Efectos de transición</h2>
+					<p>
+						Existen varias transicioes para elegir: <br>
+						<a href="?transition=none#/transitions">None</a> -
+						<a href="?transition=fade#/transitions">Fade</a> -
+						<a href="?transition=slide#/transitions">Slide</a> -
+						<a href="?transition=convex#/transitions">Convex</a> -
+						<a href="?transition=concave#/transitions">Concave</a> -
+						<a href="?transition=zoom#/transitions">Zoom</a>
+					</p>
+
+					<p>
+						<small>
+						Elegí una y luego cambiá de página para ver como queda.
+						</small>
+					</p>
+				</section>
+
+				<section id="themes">
+					<h2>Temas</h2>
+					<p>
+						reveal.js también incluye algunos temas: <br>
+
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;">Black (default)</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;">White</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;">League</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;">Sky</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;">Beige</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;">Simple</a> <br>
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;">Serif</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;">Night</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;">Moon</a> -
+						<a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
+					</p>
+				</section>
+
+
+				<section data-background="imagenes/fondo.jpg">
+					<h2>Fondos</h2>
+
+					<p>Usando el siguiente código también se pueden definir
+						imágenes como fondo:</p>
+
+					<pre><code>&lt;section data-background="imagenes/fondo.jpg"&gt;</code></pre>
+
+					<p>Si en realidad solo querés un color de fondo, podés definir
+						el color usando <code>data-background="red"</code></p>
+
+				</section>
+
+				<section>
+					<h2>Hay mucho más...</h2>
+
+					<p>Hay muchas cosas interesantes que decir sobre <strong>revealjs</strong>, ¡pero esto
+						es solo una plantilla inicial!. Así que te dejamos
+						estos recursos:</p>
+
+					<ul>
+						<li><a target="_blank" href="https://github.com/hakimel/reveal.js">Documentación completa de revealjs</a></li>
+						<li><a target="_blank" href="http://htmlcheats.com/reveal-js/reveal-js-tutorial-reveal-js-for-beginners/">Un tutorial (en inglés)</a></li>
+					</ul>
+				</section>
+
+				<section style="text-align: left;">
+					<h1>¡Gracias!</h1>
+				</section>
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>

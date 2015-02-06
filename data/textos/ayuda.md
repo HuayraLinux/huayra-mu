@@ -19,3 +19,6 @@ acá hay una descripción de las fortalezas de cada plantilla que tenemos:
               juego básico para modificar, y todo lo necesario para arrancar.
               también te facilita la publicación del juego y viene adaptado
               para funcionar en varios sistemas operativos (¡casi nada eh!)
+
+`reveal:` Te permite crear presentaciones utilizando HTML, javascript
+        y CSS. ¡Imaginate todo lo que se puede hacer!
