@@ -9,6 +9,6 @@ Vcs-Browser: https://github.com/HuayraLinux/huayra-caripela
 
 Package: huayra-mu
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, nodejs, nodejs-legacy
+Depends: ${shlibs:Depends}, ${misc:Depends}, nodejs, nodejs-legacy, npm
 Description: Un generador de proyectos
  Permite crear proyectos de manera sencilla similar a yeoman
