@@ -1,3 +1,16 @@
+huayra-mu (0.0.7) unstable; urgency=low
+
+  * Agregando soporte para revealjs. 
+  * Actualizando plantilla de ember. 
+  * Completando la plantilla de pilas-engine. 
+  * Actualizando la plantilla de html5. 
+  * Arreglo menor de colores que no se ven bien en huayra. 
+  * Haciendo que los nombres de archivos en las plantillas puedan incluir el nombre del proyecto. 
+  * Actualizando plantilla html5. 
+
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 06 Feb 2015 14:25:43 +0100
+
 huayra-mu (0.0.6) unstable; urgency=low
 
   * Commit inicial con paquete debian.
