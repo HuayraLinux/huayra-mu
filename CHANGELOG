@@ -1,0 +1,110 @@
+Changelog
+=========
+
+%%version%% (unreleased)
+------------------------
+
+- Agregando soporte para revealjs. [Hugo Ruscitti]
+
+0.0.7 (2015-02-06)
+------------------
+
+- Release 0.0.7. [Hugo Ruscitti]
+
+- Mejorando el readme. [Hugo Ruscitti]
+
+- Actualizando plantilla de ember. [Hugo Ruscitti]
+
+- Completando la plantilla de pilas-engine. [Hugo Ruscitti]
+
+- Actualizando la plantilla de html5. [Hugo Ruscitti]
+
+- Arreglo menor de colores que no se ven bien en huayra. [Hugo Ruscitti]
+
+- Haciendo que los nombres de archivos en las plantillas puedan incluir
+  el nombre del proyecto. [Hugo Ruscitti]
+
+- Actualizando plantilla html5. [Hugo Ruscitti]
+
+- Creando directorio debian. [Hugo Ruscitti]
+
+0.0.6 (2015-02-05)
+------------------
+
+- Release 0.0.6. [Hugo Ruscitti]
+
+- Actualizando plantilla de aplicacion ember. [Hugo Ruscitti]
+
+- Implementando la plantilla de pilas y el mensaje de pasos iniciales al
+  terminar de armar el proyecto. [Hugo Ruscitti]
+
+- Haciendo que las plantillas se puedan instanciar desde cualquier
+  directorio. [Hugo Ruscitti]
+
+- Agregando submodulo para la plantilla de ember. [Hugo Ruscitti]
+
+- Implementando el reemplazo de textos en las plantillas. [Hugo
+  Ruscitti]
+
+0.0.5 (2015-01-30)
+------------------
+
+- Release 0.0.5. [Hugo Ruscitti]
+
+- Comenzando a implementar plantillas. [Hugo Ruscitti]
+
+- Mejorando el archivo Makefile. [Hugo Ruscitti]
+
+0.0.4 (2015-01-29)
+------------------
+
+- Release 0.0.4. [Hugo Ruscitti]
+
+- Agregando commander. [Hugo Ruscitti]
+
+0.0.3 (2015-01-29)
+------------------
+
+- Release 0.0.3. [Hugo Ruscitti]
+
+- Actualizancion menor. [Hugo Ruscitti]
+
+- Agregando dependencias para simplificar deploys y vinculando a
+  travis.ci. [Hugo Ruscitti]
+
+0.0.2 (2015-01-29)
+------------------
+
+- Release 0.0.2. [Hugo Ruscitti]
+
+- Actualizando imagenes. [Hugo Ruscitti]
+
+- Actualizando package.json. [Hugo Ruscitti]
+
+- Acortando el texto, quitando la obviedad ¿? [Hugo Ruscitti]
+
+- Agregando colores al logo y comenzando a usar parametros de comando
+  (tipo --help y esas giladas) [Hugo Ruscitti]
+
+- Actualizando readme. [Hugo Ruscitti]
+
+- Implementando argumento en las funciones para imprimir texto. [Hugo
+  Ruscitti]
+
+- Agregando la plantilla de aplicación HTML5. [Hugo Ruscitti]
+
+- Arreglo menor. [Hugo Ruscitti]
+
+- Agregando integración con travis-ci. [Hugo Ruscitti]
+
+- Mejorando la navegación y modularizando... [Hugo Ruscitti]
+
+- Update intro.md. [Hugo Ruscitti]
+
+- Rename huayra-app to mu. [Hugo Ruscitti]
+
+- Commit inicial. [Hugo Ruscitti]
+
+- Initial commit. [Hugo Ruscitti]
+
+
