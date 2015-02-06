@@ -21,4 +21,4 @@ iniciar:
 	npm install
 
 previsualizar:
-	chromium src/index.html
+	xdg-open src/index.html
