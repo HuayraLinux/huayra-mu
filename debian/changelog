@@ -1,3 +1,11 @@
+huayra-mu (0.0.8) unstable; urgency=low
+
+  * Actualizando la plantilla de revealjs para que abra correctamente el
+    navegador.
+  * Reparando la plantilla de ember.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 06 Feb 2015 17:05:48 +0100
+
 huayra-mu (0.0.7) unstable; urgency=low
 
   * Agregando soporte para revealjs. 
