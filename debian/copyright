@@ -1,5 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: huayra-compartir
+Upstream-Name: huayra-mu
 Source: https://github.com/HuayraLinux/huayra-caripela
 
 Files: *

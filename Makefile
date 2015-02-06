@@ -8,8 +8,8 @@ all:
 	@echo ""
 	@echo "  $(V)actualizar$(N)  Actualiza el repositorio e instala las dependencias."
 	@echo ""
-	@echo "  $(V)release$(N)     Arma una nueva versión y la sube a npm."
-	@echo "  $(V)test$(N)        Ejecuta los test de unidad."
+	@echo "  $(V)release$(N)     Arma una nueva versión del a aplicación y la sube a npm."
+	@echo "  $(V)utest$(N)       Ejecuta los test de unidad."
 	@echo "  $(V)live_test$(N)   Ejecuta los test de unidad de forma continua."
 	@echo ""
 	@echo "  $(V)test_linux$(N)  Ejecuta sobre linux."
@@ -24,7 +24,7 @@ actualizar:
 release:
 	./node_modules/.bin/release-it
 
-test:
+utest:
 	./node_modules/.bin/jasmine-node spec
 
 test_mac:
@@ -34,3 +34,5 @@ test_linux: test_mac
 
 live_test:
 	jasmine-node spec --watch lib --autotest --color --growl
+
+.PHONY: test

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=Huayra Mu
+Name=Huayra-mu
 Comment=Un generador de proyectos para huayra
-Exec=/usr/bin/huayra-mu
+Exec=/usr/bin/mu
 Terminal=true
 Type=Application
 Icon=mu
