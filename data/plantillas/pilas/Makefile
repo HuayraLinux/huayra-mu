@@ -36,4 +36,4 @@ publicar:
 	dch -i
 
 crear_deb:
-	pdebuild
+	dpkg-buildpackage -us -uc
