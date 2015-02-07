@@ -1,0 +1,2 @@
+#!/bin/env node
+var mu = require('../lib/mu')
