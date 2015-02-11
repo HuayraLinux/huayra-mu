@@ -1,6 +1,7 @@
 bin/huayra/mu usr/bin/
 data usr/share/huayra-mu/
 lib usr/share/huayra-mu/
+package.json usr/share/huayra-mu/
 spec usr/share/huayra-mu/
 node_modules usr/share/huayra-mu/
 debian/mu.desktop usr/share/applications
