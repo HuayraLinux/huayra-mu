@@ -1,8 +1,52 @@
 Changelog
 =========
 
-%%version%% (unreleased)
-------------------------
+0.0.10 (2015-02-11)
+-------------------
+
+- Release 0.0.10. [Hugo Ruscitti]
+
+- Mostrando correctamente la versión del programa. [Hugo Ruscitti]
+
+0.0.9 (2015-02-11)
+------------------
+
+- Release 0.0.9. [Hugo Ruscitti]
+
+- Actualizando el comando para generar el archivo .deb. [Hugo Ruscitti]
+
+- Actualizando submodulo. [Hugo Ruscitti]
+
+- Arreglo menor en la ruta del binario para mac. [Hugo Ruscitti]
+
+- Actualizando plantilla de ember. [Hugo Ruscitti]
+
+0.0.8 (2015-02-07)
+------------------
+
+- Release 0.0.8. [Hugo Ruscitti]
+
+- Haciendo ejecutable la aplicacion. [Hugo Ruscitti]
+
+- Arreglos para que funcione ember directamente en chrome si no se usa
+  nwjs. [Hugo Ruscitti]
+
+- Agregando binario de prueba y corrigiendo las rutas de la plantilla
+  ember para ejecutar. [Hugo Ruscitti]
+
+- Actualizando el adapter de ember. [Hugo Ruscitti]
+
+- Actualizando dependencias para incluir npm. [Hugo Ruscitti]
+
+- Actualizando paquete. [Hugo Ruscitti]
+
+- Cambiando el comando para abrir la presentacion. [Hugo Ruscitti]
+
+- Actualizando paquete. [Hugo Ruscitti]
+
+- Armando el paquete .deb. [Hugo Ruscitti]
+
+- Agregando changelog. [Hugo Ruscitti]
 
 - Agregando soporte para revealjs. [Hugo Ruscitti]
 
