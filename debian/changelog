@@ -1,3 +1,9 @@
+huayra-mu (0.0.11-1) unstable; urgency=low
+
+  * Arreglo menor.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 11 Feb 2015 21:02:31 +0100
+
 huayra-mu (0.0.11) unstable; urgency=low
 
   * Reparando la inclusion del archivo package.json 
