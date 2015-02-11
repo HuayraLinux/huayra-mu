@@ -1,11 +1,11 @@
 
 C       /)   (\       R
 C  .-._((,~"~.))_.-,  R  
-C   `-.   e e   ,-'   R ¡Hola!, estás usando SmuR, el asistente
-C     / ,o---o. \     R para crear y distribuir proyectos
-C    ( ( .___. ) )    R usando las mejores tecnologías.
-C     ) `-----' (     R  
-C    /`-.__ __.-'\    R ¡muuuu!
-C         ,8.         R  
+C   `-.   e e   ,-'   R ¡Hola!, estás usando SmuR, un
+C     / ,o---o. \     R asistente para crear y distribuir 
+C    ( ( .___. ) )    R proyectos usando las mejores 
+C     ) `-----' (     R tecnologías.
+C    /`-.__ __.-'\    R 
+C         ,8.         R ¡muuuu! 
 C        /___\        R  
-C        `-&-'        R  
+C        `-&-'        R versión: VERSION
