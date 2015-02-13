@@ -1,3 +1,15 @@
+huayra-mu (0.0.13) unstable; urgency=low
+
+  * Cambiando el terminal en donde se abre la aplicación.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 13 Feb 2015 16:12:44 +0100
+
+huayra-mu (0.0.12) unstable; urgency=low
+
+  * Arreglos en sistema de plantilla.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 12 Feb 2015 19:43:39 +0100
+
 huayra-mu (0.0.11-1) unstable; urgency=low
 
   * Arreglo menor.
