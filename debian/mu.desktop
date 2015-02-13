@@ -2,7 +2,7 @@
 Version=1.0
 Name=Huayra-mu
 Comment=Un generador de proyectos para huayra
-Exec=mate-terminal -e /usr/bin/mu
+Exec=mate-terminal -e "bash -c \"/usr/bin/mu; exec bash\""
 Type=Application
 Icon=mu
 Categories=GNOME;GTK;Huayra;Network;
