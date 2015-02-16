@@ -8,7 +8,7 @@ all:
 	@echo ""
 	@echo "  $(V)actualizar$(N)  Actualiza el repositorio e instala las dependencias."
 	@echo ""
-	@echo "  $(V)release$(N)     Arma una nueva versión del a aplicación y la sube a npm."
+	@echo "  $(V)release$(N)     Arma una nueva versión y la sube a npm."
 	@echo "  $(V)utest$(N)       Ejecuta los test de unidad."
 	@echo "  $(V)live_test$(N)   Ejecuta los test de unidad de forma continua."
 	@echo ""
