@@ -1,6 +1,6 @@
 {
   "name": "huayra-mu",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Un asistente para crear proyectos de software",
   "main": "index.js",
   "scripts": {
