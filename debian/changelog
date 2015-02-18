@@ -1,3 +1,15 @@
+huayra-mu (0.0.13-3) unstable; urgency=low
+
+  * Actualizando template ember. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 18 Feb 2015 13:59:57 +0100
+
+huayra-mu (0.0.13-2) unstable; urgency=low
+
+  * Arreglo menor.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 18 Feb 2015 13:56:09 +0100
+
 huayra-mu (0.0.13) unstable; urgency=low
 
   * Cambiando el terminal en donde se abre la aplicación.
