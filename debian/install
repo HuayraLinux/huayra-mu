@@ -5,3 +5,4 @@ package.json usr/share/huayra-mu/
 spec usr/share/huayra-mu/
 node_modules usr/share/huayra-mu/
 debian/mu.desktop usr/share/applications
+debian/mu.svg /usr/share/icons/hicolor/scalable/apps
