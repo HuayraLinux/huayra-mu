@@ -1,3 +1,9 @@
+huayra-mu (0.0.13-4) unstable; urgency=low
+
+  * Agregando iconos.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 04 Mar 2015 20:50:15 +0100
+
 huayra-mu (0.0.13-3) unstable; urgency=low
 
   * Actualizando template ember. 
