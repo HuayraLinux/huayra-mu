@@ -1,3 +1,10 @@
+huayra-mu (0.0.15) unstable; urgency=low
+
+  * Reparando el bug del directorio debian en las plantillas.
+  * Haciendo que la plantilla de ember use bower de forma local. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 08 Apr 2015 15:24:21 +0200
+
 huayra-mu (0.0.14) unstable; urgency=low
 
   * Actualizando generadores.
