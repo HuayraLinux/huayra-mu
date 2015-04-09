@@ -1,3 +1,9 @@
+huayra-mu (0.0.16) unstable; urgency=low
+
+  * Haciendo que ember se ejecute de forma local en su plantilla. 
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 09 Apr 2015 20:38:10 +0200
+
 huayra-mu (0.0.15) unstable; urgency=low
 
   * Reparando el bug del directorio debian en las plantillas.
