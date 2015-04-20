@@ -1,3 +1,9 @@
+huayra-mu (0.0.16-1) unstable; urgency=low
+
+  * Actualizando ember-cli a la version 0.2.3.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 20 Apr 2015 12:16:05 -0300
+
 huayra-mu (0.0.16) unstable; urgency=low
 
   * Haciendo que ember se ejecute de forma local en su plantilla. 
