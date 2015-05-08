@@ -27,10 +27,10 @@ iniciar:
 	npm install
 
 ejecutar_linux:
-	nw src
+	@node bin/TXT_NOMBRE
 
 ejecutar_mac:
-	/Applications/nwjs.app/Contents/MacOS/nwjs src
+	@node bin/TXT_NOMBRE
 
 publicar:
 	dch -i
