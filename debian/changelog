@@ -1,9 +1,10 @@
-huayra-mu (0.0.7) UNRELEASED; urgency=low
+huayra-mu (1-0.0.18) unstable; urgency=low
 
   * reparando la plantilla html para que incluya la hoja de estilos y el
     archivo app.js
+  * Creando la plantilla para scripts de nodejs.
 
- -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 08 May 2015 14:35:28 -0300
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 08 May 2015 17:14:12 -0300
 
 huayra-mu (0.0.16-2) unstable; urgency=low
 
