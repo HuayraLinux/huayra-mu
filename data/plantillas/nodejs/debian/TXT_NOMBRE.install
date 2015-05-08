@@ -1,0 +1,5 @@
+lib/* usr/share/TXT_NOMBRE/lib
+bin/TXT_NOMBRE usr/share/TXT_NOMBRE/bin
+bin/huayra/TXT_NOMBRE usr/bin/
+debian/TXT_NOMBRE.desktop /usr/share/applications
+debian/TXT_NOMBRE.svg /usr/share/icons/hicolor/scalable/apps

@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var main = require('/usr/share/TXT_NOMBRE/bin/TXT_NOMBRE')
+main.run();

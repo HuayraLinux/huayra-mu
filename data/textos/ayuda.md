@@ -22,3 +22,5 @@ acá hay una descripción de las fortalezas de cada plantilla que tenemos:
 
 `reveal:` Te permite crear presentaciones utilizando HTML, javascript
         y CSS. ¡Imaginate todo lo que se puede hacer!
+
+`nodejs:` Ideal para programas de consola o scripts de automatización.
