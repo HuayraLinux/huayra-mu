@@ -1,3 +1,10 @@
+huayra-mu (0.0.7) UNRELEASED; urgency=low
+
+  * reparando la plantilla html para que incluya la hoja de estilos y el
+    archivo app.js
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 08 May 2015 14:35:28 -0300
+
 huayra-mu (0.0.16-2) unstable; urgency=low
 
   * Actualizando.
