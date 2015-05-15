@@ -1,3 +1,16 @@
+huayra-mu (0.0.20) unstable; urgency=low
+
+  * Cambiando nomenclatura.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 15 May 2015 12:52:57 -0300
+
+huayra-mu (1-0.0.19) unstable; urgency=low
+
+  * Actualizando la plantilla de ember que fallaba a causa de la actualización
+    de liquid-fire.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 15 May 2015 11:26:14 -0300
+
 huayra-mu (1-0.0.18) unstable; urgency=low
 
   * reparando la plantilla html para que incluya la hoja de estilos y el
