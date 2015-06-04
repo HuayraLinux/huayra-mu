@@ -1,3 +1,10 @@
+huayra-mu (0.0.21) unstable; urgency=low
+
+  * actualizando plantilla de ember para hacer configurable el modo
+    live-reload.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 04 Jun 2015 16:44:07 +0200
+
 huayra-mu (0.0.20) unstable; urgency=low
 
   * Cambiando nomenclatura.
