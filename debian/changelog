@@ -1,3 +1,13 @@
+huayra-mu (0.0.24) UNRELEASED; urgency=low
+
+  *  Release 0.0.24
+  *  Actualizando plantilla de ember.
+  *  cambiando el patron de la plantilla ember a TXTNOMBRE (en lugar de TXT_NOMBRE)
+  *  actualizando plantilla de ember para incluir un atajo de teclado que abre el inspector.
+  *  Actualizando paquete.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Mon, 29 Jun 2015 15:06:08 +0200
+
 huayra-mu (0.0.21) unstable; urgency=low
 
   * actualizando plantilla de ember para hacer configurable el modo
