@@ -20,6 +20,7 @@ all:
 actualizar:
 	git pull
 	npm install
+	git submodule update --init
 
 release:
 	./node_modules/.bin/release-it
